@@ -73,37 +73,37 @@ The following are important insights revealed by my analysis on the dataset:
 
  |  |  |
  |:-----------:|:------------:|
- |![total number of sales per product class](https://github.com/controldata23/Foresight-Pharmaceutical/blob/main/total%20no%20of%20sales%20per%20product%20class.png)|![total amount of sales per product class](https://github.com/controldata23/Foresight-Pharmaceutical/blob/main/total%20amountt%20of%20sales%20per%20product%20class.png)|
+ |![total number of sales per product class](https://github.com/controldata23/Foresight-Pharmaceutical/blob/main/screenshots/total%20no%20of%20sales%20per%20product%20class.png)|![total amount of sales per product class](https://github.com/controldata23/Foresight-Pharmaceutical/blob/main/screenshots/total%20amountt%20of%20sales%20per%20product%20class.png)|
 
 <br>
 2.	The total amount of sales per manager: it is observed that Britany Bold is the highest-performing manager. Alisha Coldwell is also performing reasonably in terms of revenue.
 
-![total amount of sales per manager](https://github.com/controldata23/Foresight-Pharmaceutical/blob/main/total%20amt%20of%20sales%20per%20manager.png)
+![total amount of sales per manager](https://github.com/controldata23/Foresight-Pharmaceutical/blob/main/screenshots/total%20amt%20of%20sales%20per%20manager.png)
 
 <br>
 3.	The total amount of sales per channel: Pharmacies slightly ordered the product more than hospitals. 
 
-![total amount of sales per channel ](https://github.com/controldata23/Foresight-Pharmaceutical/blob/main/total%20amt%20of%20sales%20per%20channel.png)
+![total amount of sales per channel ](https://github.com/controldata23/Foresight-Pharmaceutical/blob/main/screenshots/total%20amt%20of%20sales%20per%20channel.png)
 
 <br>
 4.	The total amount of sales per sales team: the delta team has the highest. Charlie’s team is also doing well in terms of amount of sales.
 
-![total amount of sales per sales team](https://github.com/controldata23/Foresight-Pharmaceutical/blob/main/tota%20amt%20of%20sale%20per%20sales%20team.png)
+![total amount of sales per sales team](https://github.com/controldata23/Foresight-Pharmaceutical/blob/main/screenshots/tota%20amt%20of%20sale%20per%20sales%20team.png)
 
 <br>
 5.	The total amount of sales per year: the year 2018 has the highest total sales in four years period, with sales gradually decreasing. Up until 2020, the company needs to put more effort into marketing and sales. 
  
-![total amount of sales per year](https://github.com/controldata23/Foresight-Pharmaceutical/blob/main/total%20amount%20of%20sales%20per%20year.png)
+![total amount of sales per year](https://github.com/controldata23/Foresight-Pharmaceutical/blob/main/screenshots/total%20amount%20of%20sales%20per%20year.png)
 
 <br>
 6.	The number of sales per sub-channel: retail and Government have the highest number of sales. 
 
-![total number of sales per sub channel](https://github.com/controldata23/Foresight-Pharmaceutical/blob/main/total%20no%20of%20sale%20per%20sub%20channel.png)
+![total number of sales per sub channel](https://github.com/controldata23/Foresight-Pharmaceutical/blob/main/screenshots/total%20no%20of%20sale%20per%20sub%20channel.png)
  
 <br>
 7.	The total number of sales per distributor: the top four distributors are Gerlach LLC, Koss, Erdman, and Stehr-Champlin. However, the amount of sales per distributor shows that instead of Stehr-Champlin, it is actually Kozey-Emmerich that comes in the fourth place.
 
-![number of sales per distributor](https://github.com/controldata23/Foresight-Pharmaceutical/blob/main/no%20of%20sales%20per%20distributor.png)
+![number of sales per distributor](https://github.com/controldata23/Foresight-Pharmaceutical/blob/main/screenshots/no%20of%20sales%20per%20distributor.png)
 
 
 <br>
